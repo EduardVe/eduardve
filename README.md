@@ -1,7 +1,7 @@
 
 # EduardDelgadoPortfolio
 
-## ¡Hola y bienvenido! �🚀💡
+## ¡Hola y bienvenido! 🚀💡
 
 Soy Full Stack Developer y disfruto crear aplicaciones modernas, seguras y eficientes, acompañando a mis clientes en cada paso: desde la idea inicial hasta el soporte final. Mi objetivo es que te sientas acompañado y seguro en todo el proceso. 😊💪
 

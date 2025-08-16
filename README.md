@@ -14,7 +14,7 @@ Soy Full Stack Developer y disfruto crear aplicaciones modernas, seguras y efici
 <div align="center">
 	<table style="border:none; border-collapse:collapse;">
 		<tr>
-			<td align="center" valign="top" width="50%" style="border:none;">
+			<td align="left" valign="top" width="50%" style="border:0px !important">
 				<ul style="list-style:none; padding:0; margin:0;">
 					<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript / TypeScript</li>
 					<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="20"/> Angular</li>
@@ -22,7 +22,7 @@ Soy Full Stack Developer y disfruto crear aplicaciones modernas, seguras y efici
 					<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL</li>
 				</ul>
 			</td>
-			<td align="center" valign="top" width="50%" style="border:none;">
+			<td align="left" valign="top" width="50%" style="border:0px !important;">
 				<ul style="list-style:none; padding:0; margin:0;">
 					<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> HTML5 & CSS3</li>
 					  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/> Tailwind CSS</li>
